@@ -1,0 +1,5 @@
+# Local Netlify folder
+.netlify
+
+# Build artifact (dist papkasidan qayta yasash mumkin)
+presentation-netlify.zip

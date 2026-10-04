@@ -1,0 +1,52 @@
+{
+  "v": 4,
+  "attachments": {},
+  "cover": "cover",
+  "createdOnFiles": {
+    "at": "2026-09-22T12:00:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "faces": {
+    "archivo-black": {
+      "family": "Archivo Black",
+      "href": "https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap"
+    },
+    "manrope": {
+      "family": "Manrope",
+      "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@400..800&display=swap"
+    }
+  },
+  "order": [
+    "cover",
+    "savol",
+    "yol",
+    "hozir",
+    "loyihalar",
+    "talim",
+    "qanday",
+    "tashkilot",
+    "raqamlar",
+    "darslar",
+    "savollar"
+  ],
+  "sections": {
+    "s1": {
+      "description": "Salomlashish va kutilmagan savol bilan qiziqtirish",
+      "start": "cover"
+    },
+    "s2": {
+      "description": "Mehmonxona kollejidan tim leadgacha bo'lgan yo'l",
+      "start": "yol"
+    },
+    "s3": {
+      "description": "Hozirgi ish, qurilgan loyihalar va raqamlar — nega menga ishonish mumkin",
+      "start": "hozir"
+    },
+    "s4": {
+      "description": "Darslar qoidalari va savol-javob",
+      "start": "darslar"
+    }
+  },
+  "title": "Men kimman — tanishuv (nusxa)"
+}
