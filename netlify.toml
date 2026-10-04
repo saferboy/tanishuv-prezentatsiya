@@ -1,0 +1,12 @@
+# Repo ildizidagi sozlama — GitHub'dan avtomatik deploy uchun.
+# Build kerak emas: dist/ papkasi allaqachon tayyor statik sayt.
+
+[build]
+  publish = "dist"
+  command = ""
+
+[[headers]]
+  for = "/_blob/*"
+  [headers.values]
+    Content-Type = "image/png"
+    Cache-Control = "public, max-age=31536000, immutable"
